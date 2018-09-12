@@ -1,5 +1,8 @@
-# mysite_project
-## First django app.
+# First django app.
+#### Description: 
+Polls app. 
+>Make questions, take choice results.
+
 
 For launch app:
 1. Install virtual environment.
